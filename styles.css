@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    padding: 0.2em;
+    margin: 0.2em;
+    background-size: 10em;
+}
+
+.cloud {
+    color:aqua;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 0.2em;
+    margin: 0.2em;
+}
+
+h3 {
+    background-color:cadetblue;
+    color: black;
+    text-align: right;
+    padding: 0.2em;
+    margin: 0.2em;
+}
